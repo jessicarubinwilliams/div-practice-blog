@@ -1,0 +1,45 @@
+.jrw {
+  color: rgb(9, 122, 9);
+  font-family: Tahoma;
+}
+
+body {
+  background-color: beige;
+}
+
+.jrwabout {
+  color:  rgb(9, 122, 9);
+  font-family: Geneva;
+  font-style: italic;
+}
+
+.date {
+  color: rgb(11, 11, 158);
+  font-style: bold;
+}
+
+img {
+  border-radius: 80%;
+  max-width: 20%;
+  height: auto;
+}
+
+.generic {
+  font-family: sans-serif;
+  color: lightskyblue;
+}
+
+.hrw {
+  font-family: monospace;
+  background-color: lightslategray;
+  border-style: dashed;
+}
+
+.hrwabout {
+  font-family: monospace;
+  color: whitesmoke;
+  background-color: teal;
+  text-align: center;
+  border-style: dashed;
+  border-color: black;  
+}
