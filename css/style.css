@@ -1,6 +1,8 @@
 .jrw {
   color: rgb(9, 122, 9);
   font-family: Tahoma;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 body {
@@ -33,6 +35,8 @@ img {
   font-family: monospace;
   background-color: lightslategray;
   border-style: dashed;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .hrwabout {
